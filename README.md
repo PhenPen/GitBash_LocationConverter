@@ -53,11 +53,11 @@ Ask whether to copy it to the clipboard (Y/N)
 
 ##  Running the EXE Version
 
-This project also includes a standalone Windows executable (`gitbash_LocationConverter.exe`) located in the **dist** folder.
+This project also includes a standalone Windows executable (`gitbash_LocationConverter.exe`).
 
 You can run it without installing Python:
 
-1. Download the EXE from the repository (Located in the dist folder) .
+1. Download the EXE from the repository  .
 2. Double-click `gitbash_LocationConverter.exe`.
 3. Enter your Windows path when prompted.
 4. Choose whether to copy the converted Git Bash path to your clipboard.
